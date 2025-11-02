@@ -23,3 +23,23 @@ class Solution {
         return head;
     }
 }
+
+// solution 2 
+class Solution {
+    public ListNode modifiedList(List<Integer> v, ListNode head) {
+        ListNode dummy = new ListNode(-1);
+        ListNode t = dummy;
+        Set<Integer> s = new HashSet<>(v);
+        
+        while (head != null) {
+            if (!s.contains(head.val)) {
+                t.next = head;
+                t = t.next;
+            }
+            head = head.next;
+        }
+        
+        t.next = null;
+        return dummy.next;
+    }
+}
