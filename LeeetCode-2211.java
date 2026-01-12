@@ -1,4 +1,4 @@
-// solution
+
 class Solution {
     public int countCollisions(String directions) {
         int n = directions.length();
