@@ -1,3 +1,4 @@
+// solution
 class Solution {
     public int maxNumberOfBalloons(String text) {
         HashMap<Character,Integer> map = new HashMap<>();
