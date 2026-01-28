@@ -1,4 +1,4 @@
-//sol
+//s
 class Solution {
     public boolean search(int[] arr, int target) {
         int n = arr.length;
