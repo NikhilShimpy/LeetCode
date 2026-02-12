@@ -1,7 +1,7 @@
 class Solution {
     public int countTrapezoids(int[][] points) {
         int n = points.length;
-        //nothinh
+        //nothi
         HashMap<Integer, HashMap<Integer, Integer>> seg = new HashMap<>();
         HashMap<Integer, HashMap<Integer, Integer>> ps = new HashMap<>();
 
