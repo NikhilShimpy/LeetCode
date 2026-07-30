@@ -12,6 +12,7 @@ LeetCode Question with solution
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -29,4 +30,16 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Array
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
