@@ -6,6 +6,7 @@ LeetCode Question with solution
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -38,6 +39,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -105,4 +107,16 @@ LeetCode Question with solution
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
