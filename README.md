@@ -8,6 +8,7 @@ LeetCode Question with solution
 | ------- |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -42,6 +43,7 @@ LeetCode Question with solution
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -114,6 +116,7 @@ LeetCode Question with solution
 | ------- |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -123,4 +126,13 @@ LeetCode Question with solution
 | ------- |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
