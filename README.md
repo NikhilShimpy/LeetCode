@@ -52,6 +52,7 @@ LeetCode Question with solution
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3731-find-missing-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/3731-find-missing-elements) |
@@ -84,6 +85,7 @@ LeetCode Question with solution
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/3731-find-missing-elements) |
@@ -166,4 +168,8 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
