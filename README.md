@@ -56,6 +56,7 @@ LeetCode Question with solution
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilShimpy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -197,4 +198,8 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NikhilShimpy/LeetCode/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilShimpy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
