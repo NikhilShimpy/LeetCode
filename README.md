@@ -118,6 +118,7 @@ LeetCode Question with solution
 | [0210-course-schedule-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/NikhilShimpy/LeetCode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/NikhilShimpy/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -135,6 +136,7 @@ LeetCode Question with solution
 | [0207-course-schedule](https://github.com/NikhilShimpy/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/NikhilShimpy/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/NikhilShimpy/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Dynamic Programming
 |  |
@@ -171,6 +173,7 @@ LeetCode Question with solution
 | [0207-course-schedule](https://github.com/NikhilShimpy/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/NikhilShimpy/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/NikhilShimpy/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
@@ -202,4 +205,16 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilShimpy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
