@@ -10,6 +10,7 @@ LeetCode Question with solution
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -25,6 +26,7 @@ LeetCode Question with solution
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NikhilShimpy/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -43,6 +45,7 @@ LeetCode Question with solution
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
@@ -53,6 +56,7 @@ LeetCode Question with solution
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -157,16 +161,19 @@ LeetCode Question with solution
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -217,4 +224,8 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
