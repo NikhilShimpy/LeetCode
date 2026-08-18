@@ -118,6 +118,7 @@ LeetCode Question with solution
 | [0094-binary-tree-inorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/NikhilShimpy/LeetCode/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -268,4 +269,8 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/NikhilShimpy/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
