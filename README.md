@@ -42,6 +42,7 @@ LeetCode Question with solution
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -49,6 +50,7 @@ LeetCode Question with solution
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -56,6 +58,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
@@ -81,6 +84,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -96,6 +100,7 @@ LeetCode Question with solution
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -222,6 +227,7 @@ LeetCode Question with solution
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -243,4 +249,12 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
