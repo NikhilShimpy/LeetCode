@@ -18,6 +18,7 @@ LeetCode Question with solution
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -160,6 +161,7 @@ LeetCode Question with solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
@@ -201,6 +203,7 @@ LeetCode Question with solution
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NikhilShimpy/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
@@ -261,4 +264,8 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
