@@ -18,6 +18,7 @@ LeetCode Question with solution
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NikhilShimpy/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -42,6 +43,7 @@ LeetCode Question with solution
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -57,6 +59,7 @@ LeetCode Question with solution
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
@@ -100,6 +103,7 @@ LeetCode Question with solution
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
