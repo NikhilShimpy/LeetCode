@@ -6,6 +6,7 @@ LeetCode Question with solution
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NikhilShimpy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
@@ -164,6 +165,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/NikhilShimpy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
@@ -278,4 +280,8 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NikhilShimpy/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
