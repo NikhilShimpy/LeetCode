@@ -13,6 +13,7 @@ LeetCode Question with solution
 | [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NikhilShimpy/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -72,6 +73,7 @@ LeetCode Question with solution
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NikhilShimpy/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NikhilShimpy/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3693-climbing-stairs-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -81,6 +83,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NikhilShimpy/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -236,6 +239,7 @@ LeetCode Question with solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NikhilShimpy/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilShimpy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
@@ -261,6 +265,7 @@ LeetCode Question with solution
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NikhilShimpy/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bucket Sort
 |  |
@@ -286,4 +291,8 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NikhilShimpy/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NikhilShimpy/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
