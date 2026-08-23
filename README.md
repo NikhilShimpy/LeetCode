@@ -67,6 +67,7 @@ LeetCode Question with solution
 | ------- |
 | [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NikhilShimpy/LeetCode/tree/master/0053-maximum-subarray) |
+| [0238-product-of-array-except-self](https://github.com/NikhilShimpy/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
@@ -224,6 +225,7 @@ LeetCode Question with solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NikhilShimpy/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
 ## Sliding Window
 |  |
