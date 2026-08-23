@@ -66,6 +66,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/NikhilShimpy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
@@ -96,6 +97,7 @@ LeetCode Question with solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NikhilShimpy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
@@ -172,6 +174,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/NikhilShimpy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NikhilShimpy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0877-stone-game) |
