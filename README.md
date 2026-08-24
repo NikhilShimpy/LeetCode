@@ -35,6 +35,7 @@ LeetCode Question with solution
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/NikhilShimpy/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -67,6 +68,7 @@ LeetCode Question with solution
 | ------- |
 | [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NikhilShimpy/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/NikhilShimpy/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/NikhilShimpy/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/0327-count-of-range-sum) |
@@ -182,6 +184,7 @@ LeetCode Question with solution
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/NikhilShimpy/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/NikhilShimpy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/NikhilShimpy/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/NikhilShimpy/LeetCode/tree/master/0486-predict-the-winner) |
