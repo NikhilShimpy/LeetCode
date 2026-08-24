@@ -140,6 +140,7 @@ LeetCode Question with solution
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/NikhilShimpy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -149,6 +150,7 @@ LeetCode Question with solution
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/NikhilShimpy/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/NikhilShimpy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/NikhilShimpy/LeetCode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
@@ -161,6 +163,7 @@ LeetCode Question with solution
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilShimpy/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/NikhilShimpy/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +171,7 @@ LeetCode Question with solution
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0207-course-schedule](https://github.com/NikhilShimpy/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/NikhilShimpy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/NikhilShimpy/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/NikhilShimpy/LeetCode/tree/master/3310-remove-methods-from-project) |
