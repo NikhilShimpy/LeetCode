@@ -35,6 +35,7 @@ LeetCode Question with solution
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/NikhilShimpy/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
@@ -66,6 +67,7 @@ LeetCode Question with solution
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NikhilShimpy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0055-jump-game) |
@@ -183,6 +185,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikhilShimpy/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/NikhilShimpy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NikhilShimpy/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/NikhilShimpy/LeetCode/tree/master/0070-climbing-stairs) |
