@@ -59,6 +59,7 @@ LeetCode Question with solution
 | ------- |
 | [0049-group-anagrams](https://github.com/NikhilShimpy/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -87,6 +88,7 @@ LeetCode Question with solution
 | [1140-stone-game-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NikhilShimpy/LeetCode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/NikhilShimpy/LeetCode/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NikhilShimpy/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NikhilShimpy/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -261,6 +263,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/NikhilShimpy/LeetCode/tree/master/0547-number-of-provinces) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
