@@ -342,4 +342,8 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NikhilShimpy/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/NikhilShimpy/LeetCode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
