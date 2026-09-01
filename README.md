@@ -97,6 +97,7 @@ LeetCode Question with solution
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NikhilShimpy/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NikhilShimpy/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NikhilShimpy/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3693-climbing-stairs-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilShimpy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikhilShimpy/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -141,6 +142,7 @@ LeetCode Question with solution
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NikhilShimpy/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NikhilShimpy/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NikhilShimpy/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikhilShimpy/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/NikhilShimpy/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/3731-find-missing-elements) |
@@ -195,6 +197,7 @@ LeetCode Question with solution
 | [0547-number-of-provinces](https://github.com/NikhilShimpy/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/NikhilShimpy/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/NikhilShimpy/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NikhilShimpy/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,6 +282,7 @@ LeetCode Question with solution
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NikhilShimpy/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NikhilShimpy/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilShimpy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
@@ -351,4 +355,8 @@ LeetCode Question with solution
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/NikhilShimpy/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/NikhilShimpy/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/NikhilShimpy/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NikhilShimpy/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
