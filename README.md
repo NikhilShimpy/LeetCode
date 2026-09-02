@@ -18,6 +18,7 @@ LeetCode Question with solution
 | [3345-smallest-divisible-digit-product-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/NikhilShimpy/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ LeetCode Question with solution
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NikhilShimpy/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikhilShimpy/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NikhilShimpy/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NikhilShimpy/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
